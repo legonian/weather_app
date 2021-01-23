@@ -1,0 +1,29 @@
+{
+  "ok": true,
+  "data": [
+    {
+      "time": "2020-12-01T00:00:00.000Z",
+      "temp": 30,
+      "humidity": 60,
+      "presure": 1000
+    },
+    {
+      "time": "2020-12-10T00:00:00.000Z",
+      "temp": 25,
+      "humidity": 50,
+      "presure": 1000
+    },
+    {
+      "time": "2020-12-20T00:00:00.000Z",
+      "temp": 27,
+      "humidity": 50,
+      "presure": 1000
+    },
+    {
+      "time": "2020-12-30T00:00:00.000Z",
+      "temp": 21,
+      "humidity": 30,
+      "presure": 900
+    }
+  ]
+}
